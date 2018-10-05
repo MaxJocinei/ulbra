@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    padding: 10px;
+    font-family: verdana;
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+}
+
+form{
+    alignment-baseline: central;
+    position:relative;
+    width:75%;
+    margin:70px auto 0 auto;
+}
+
+input, select{
+    position:relative;
+    margin-top:20px;
+    margin-left:10px;
+    padding-left: 5px;
+    width:70%;
+    height:25px;
+}
+
+
+.container{
+    display:block;
+    padding:10px;
+    width:80%;
+    height:auto;
+    margin:150px auto 0px auto;
+    background-color:white;
+    border-radius:10px;
+    
+}
+
+.txt{
+    position:relative;
+    margin-left:45px;
+    text-align:center;
+}
+
+.resp{
+    position:relative;
+    margin:50px auto 0 auto;
+}
