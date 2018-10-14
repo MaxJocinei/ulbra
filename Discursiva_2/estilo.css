@@ -47,3 +47,7 @@ input, select{
     position:relative;
     margin:50px auto 0 auto;
 }
+
+.formato{
+    text-decoration: underline;
+}
